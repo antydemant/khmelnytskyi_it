@@ -1,0 +1,26 @@
+{
+  "name": "khmelnytskyi_it",
+  "version": "1.0.0",
+  "description": "K-city in one place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antydemant/khmelnytskyi_it.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antydemant/khmelnytskyi_it/issues"
+  },
+  "homepage": "https://github.com/antydemant/khmelnytskyi_it#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "merge-img": "^2.1.3",
+    "node-cache": "^5.0.1",
+    "node-fetch": "^2.6.0",
+    "slack-invite": "^1.1.0"
+  }
+}
