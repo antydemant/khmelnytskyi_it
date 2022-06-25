@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "merge-img": "^2.1.3",
     "node-cache": "^5.0.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "slack-invite": "^1.1.0"
   }
 }
